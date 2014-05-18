@@ -1,0 +1,8 @@
+*.*~
+**/metadata*
+packages/
+**/test
+leksah.webprj
+leksah.session
+hal5/
+
