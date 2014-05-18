@@ -1,4 +1,4 @@
 website
 =======
 
-website at leksah.org
+website at leksah.org and leksah.github.io
